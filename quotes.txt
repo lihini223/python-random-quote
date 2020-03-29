@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Python is fun
+Be a change you wish to see in the world
+Programming is my passion
